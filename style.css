@@ -1,10 +1,17 @@
-*{
-    background-color: aquamarine;
+#AG230680{
+    background-color: aqua;
+    color: black;
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    
+    align-items: center;
+    font-size: 24px;
+}
+div{
+   margin-top: 7%;
 }
 
-#AS240144{
-    width: 300px;
-    background-color: beige;
-    border-radius: 20px;
-    padding: 10px;
+h1{
+    background-color: rgb(73, 207, 104);
 }
