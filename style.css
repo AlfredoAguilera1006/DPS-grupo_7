@@ -1,3 +1,8 @@
+*{
+    background-color: aquamarine;
+}
+
+
 #AG230680{
     background-color: aqua;
     color: black;
@@ -20,3 +25,9 @@ h1{
     background-color: rgb(73, 207, 104);
 }
 
+#AS240144{
+    width: 300px;
+    background-color: beige;
+    border-radius: 20px;
+    padding: 10px;
+}
