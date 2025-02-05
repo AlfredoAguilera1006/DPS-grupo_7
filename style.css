@@ -1,3 +1,45 @@
-*{
-    background-color: aquamarine;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+#RP241102 {
+    background: linear-gradient(135deg, #f7df1e, #ffcc00);
+    color: #222;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 15px rgba(255, 204, 0, 0.4);
+    max-width: 500px;
+    text-align: center;
+    font-size: 18px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+#RP241102 h2 {
+    margin: 0 0 10px;
+    color: #111;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#RP241102 p {
+    line-height: 1.6;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
