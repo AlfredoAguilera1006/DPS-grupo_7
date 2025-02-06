@@ -6,7 +6,7 @@
 }
 
 
-.hi{
+#ar241049{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,6 +18,6 @@
     border-radius: 50px;
 }
 
-.hi h3{
+#ar241049 h3{
     color: #ffff;
 }
